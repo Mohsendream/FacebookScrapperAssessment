@@ -1,3 +1,3 @@
 Facebook Scrapper 
-This repository about web scrapping and Dockerization
-using Facebook_scraper library .
+
+This repository about web scrapping and Dockerizationusing Facebook_scraper library .
